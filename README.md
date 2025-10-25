@@ -1,4 +1,4 @@
-# 🎮 Rock, Paper, Scissors
+# Rock, Paper, Scissors
 
 ### 🔍 Overview
 A console-based **Rock, Paper, Scissors** game where the player competes against a computer opponent.  
@@ -6,7 +6,7 @@ The program demonstrates modular function design, random number generation, and 
 
 ---
 
-### ⚙️ Features
+### Features
 - Clean user interface with emojis ✊ 🤚 ✌️  
 - Randomized CPU opponent  
 - Input validation for incorrect entries  
@@ -14,7 +14,7 @@ The program demonstrates modular function design, random number generation, and 
 
 ---
 
-### 🧩 Example
+### Example
 ```bash
 ===================
 rock paper scissors
